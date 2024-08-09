@@ -1,6 +1,9 @@
 body {
+
     font-family: Arial, sans-serif;
     background-color: rgb(255, 255, 165);
+
+
 }
 
 h1, h2 {
@@ -13,9 +16,10 @@ p {
 
 
 .image{
-    border: 5px solid green;
+    float: inline-end;
+    border: 5px solid rgb(58, 112, 197);
     border-radius: 10px;
-    height: 400px;
+    height: 300px;
 }
 
 .link-button {
