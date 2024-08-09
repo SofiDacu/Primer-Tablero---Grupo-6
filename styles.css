@@ -1,12 +1,14 @@
 body {
 
     font-family: Arial, sans-serif;
-    background-color: blue;
+    background-color: rgb(164, 164, 250);
 
 
 }
 
 h1, h2 {
+    color: rgb(239, 239, 254);
+    text-shadow: rgb(88, 88, 236);
     font-family: Arial,sans-serif ;
 }
 
@@ -17,7 +19,7 @@ p {
 
 .image{
     float: inline-end;
-    border: 5px solid rgb(58, 112, 197);
+    border: 5px solid rgb(71, 71, 238);
     border-radius: 10px;
     height: 300px;
 }
