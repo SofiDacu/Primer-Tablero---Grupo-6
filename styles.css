@@ -1,13 +1,19 @@
 body {
-    text-align: center;
-    background-color: rgb(172, 201, 249);
-    font-family: 'Times New Roman', Times, serif;
+
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 165);
+
 
 }
-h1 {
-    color:#e0e8ec;
-    
+
+h1, h2 {
+    font-family: Arial,sans-serif ;
 }
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 
 .image{
     float: inline-end;
