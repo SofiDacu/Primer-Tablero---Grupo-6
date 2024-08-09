@@ -17,3 +17,17 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+
+button {
+    background-color: #4ca8af; 
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2d259c; 
+}
