@@ -1,6 +1,16 @@
 body {
+    font-family: Arial, sans-serif;
     background-color: rgb(255, 255, 165);
 }
+
+h1, h2 {
+    font-family: Georgia, serif;
+}
+
+p {
+    font-family: Arial, sans-serif;
+}
+
 
 .image{
     border: 5px solid green;
