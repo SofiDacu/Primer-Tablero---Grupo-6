@@ -9,7 +9,8 @@ body {
 }
 
 
-*.link-button {
+.
+.button {
     background-color: #4ca8af; 
     color: white;
     padding: 10px 20px;
@@ -21,3 +22,5 @@ body {
 button:hover {
     background-color: #2d259c; 
 }
+
+
