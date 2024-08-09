@@ -19,7 +19,7 @@ body {
 }
 
 
-button {
+.link-button {
     background-color: #4ca8af; 
     color: white;
     padding: 10px 20px;
